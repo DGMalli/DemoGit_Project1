@@ -1,6 +1,4 @@
 #!/bin/bash
-echo "Enter the nuber to find the fact"
-read num
 sum=1
 while [ $num -ge 1 ]
 do
